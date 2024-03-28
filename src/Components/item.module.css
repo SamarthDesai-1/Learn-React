@@ -1,0 +1,13 @@
+.test-item {
+  background-color: lightgreen;
+  font-size: 1.2rem;
+  list-style: none;
+}
+.btn {
+  background-color: lightgreen;
+  color: white;
+  min-width: 25px;
+  float: right;
+  min-width: 72px;
+  font-weight: bold;
+}
